@@ -1,2 +1,1 @@
-# PreCurse-henry
-Este es un repositorrio de prueba para el modulo de henry
+Este proyecto es una prueba de como clonarlo desde la nube hacia mi computadora
